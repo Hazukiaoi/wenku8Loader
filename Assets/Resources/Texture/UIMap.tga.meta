@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: 84f78e18bec629f44ba858c17a4469d0
+timeCreated: 1429628661
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UIMap_0
+    21300002: UIMap_1
+    21300004: UIMap_2
+    21300006: UIMap_3
+    21300008: UIMap_4
+    21300010: UIMap_5
+    21300012: UIMap_6
+    21300014: UIMap_7
+    21300016: UIMap_8
+    21300018: UIMap_9
+    21300020: UIMap_10
+    21300022: UIMap_11
+    21300024: UIMap_12
+    21300026: UIMap_13
+    21300028: UIMap_14
+    21300030: UIMap_15
+    21300032: UIMap_16
+    21300034: UIMap_17
+    21300036: UIMap_18
+    21300038: UIMap_19
+    21300040: UIMap_20
+    21300042: UIMap_21
+    21300044: UIMap_22
+    21300046: UIMap_23
+    21300048: UIMap_24
+    21300050: UIMap_25
+    21300052: UIMap_26
+    21300054: UIMap_27
+    21300056: UIMap_28
+    21300058: UIMap_29
+    21300060: UIMap_30
+    21300062: UIMap_31
+    21300064: UIMap_32
+    21300066: UIMap_33
+    21300068: UIMap_34
+    21300070: UIMap_35
+    21300072: UIMap_36
+    21300074: UIMap_37
+    21300076: UIMap_38
+    21300078: UIMap_39
+    21300080: UIMap_40
+    21300082: UIMap_41
+    21300084: UIMap_42
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UIMap_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 776
+        width: 310
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 9, y: 10, z: 0, w: 9}
+    - name: UIMap_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 776
+        width: 160
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 10, z: 8, w: 9}
+    - name: UIMap_2
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 776
+        width: 110
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 10, y: 10, z: 10, w: 9}
+    - name: UIMap_3
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 977
+        width: 140
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 6, y: 6, z: 5, w: 6}
+    - name: UIMap_4
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 927
+        width: 140
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 6, y: 6, z: 5, w: 7}
+    - name: UIMap_5
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 877
+        width: 140
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 6, y: 6, z: 5, w: 6}
+    - name: UIMap_6
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 837
+        width: 70
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 6, y: 6, z: 5, w: 6}
+    - name: UIMap_7
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 837
+        width: 70
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 5, y: 5, z: 5, w: 5}
+    - name: UIMap_8
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 977
+        width: 140
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+    - name: UIMap_9
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 927
+        width: 140
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 6, y: 6, z: 6, w: 7}
+    - name: UIMap_10
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 877
+        width: 140
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+    - name: UIMap_11
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 846
+        width: 90
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 5, y: 5, z: 5, w: 5}
+    - name: UIMap_12
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 843
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+    - name: UIMap_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 714
+        width: 210
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 8, y: 6, z: 8, w: 8}
+    - name: UIMap_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 654
+        width: 210
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 8, y: 7, z: 8, w: 8}
+    - name: UIMap_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 591
+        width: 210
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIMap_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 548
+        width: 210
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIMap_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 434
+        width: 210
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIMap_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 364
+        width: 210
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 5, y: 5, z: 5, w: 6}
+    - name: UIMap_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 354
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIMap_20
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 314
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIMap_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 264
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIMap_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 214
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIMap_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 734
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIMap_24
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 694
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIMap_25
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 734
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIMap_26
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 659
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIMap_27
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 656
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIMap_28
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 655
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIMap_29
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 655
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIMap_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 504
+        width: 310
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 7, y: 7, z: 8, w: 7}
+    - name: UIMap_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 434
+        width: 310
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 7, y: 8, z: 8, w: 8}
+    - name: UIMap_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 364
+        width: 310
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 7, y: 8, z: 8, w: 9}
+    - name: UIMap_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 214
+        width: 240
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 7, y: 11, z: 9, w: 10}
+    - name: UIMap_34
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 305
+        width: 90
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 7, y: 7, z: 7, w: 7}
+    - name: UIMap_35
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 247
+        width: 90
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 7, y: 7, z: 7, w: 9}
+    - name: UIMap_36
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 738
+        width: 260
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 9, y: 0, z: 48, w: 52}
+    - name: UIMap_37
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 668
+        width: 260
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIMap_38
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 498
+        width: 260
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 7, y: 8, z: 8, w: 0}
+    - name: UIMap_39
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 441
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIMap_40
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 441
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIMap_41
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 345
+        width: 260
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIMap_42
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 777
+        width: 306
+        height: 233
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
