@@ -82,13 +82,13 @@ public class UIEvent : MonoBehaviour
         screenScale = new Vector2(1080 / ScreenSize.x, 1920 / ScreenSize.y);
 
         AllHotBoxIconList = new Image[6]{//此处排序必须与pageType一致，back为最后一项
-			Icon_HotToday,
-			Icon_TheNew,
-			Icon_HotNew,
-			Icon_WeekList,
-			Icon_Seach,
-			Icon_Back
-		};
+            Icon_HotToday,
+            Icon_TheNew,
+            Icon_HotNew,
+            Icon_WeekList,
+            Icon_Seach,
+            Icon_Back
+        };
 
         LerpColorStart = new Color(1, 1, 1, 0);
         lerpColorEnd = new Color(1, 1, 1, 1);
@@ -100,10 +100,8 @@ public class UIEvent : MonoBehaviour
         for (int i = 0; i < AllHotBoxIconList.Length; i++)
         {
             AllHotBoxIconList[i].gameObject.SetActive(false);
-            NowHotBoxIconList[i].canvasRenderer.SetColor(LerpColorStart);
-        }
-        
-        
+            AllHotBoxIconList[i].canvasRenderer.SetColor(LerpColorStart);
+        }   
 
     }
 
@@ -189,10 +187,10 @@ public class UIEvent : MonoBehaviour
                 #region move
                 case touchType.move:
                     MenuTitle.text = "Move";
-                    if (dropAction != null)
-                    {
-                        dropAction();
-                    }
+                    //if (dropAction != null)
+                    //{
+                    //    dropAction();
+                    //}
 
                     break;
                 #endregion
@@ -257,13 +255,13 @@ public class UIEvent : MonoBehaviour
             lerpToPosition(hotBoxTagPosition, ref iconMoveT, isOut);
         }
 
-        if (iconMoveT <= 0 && isHotMenuClose == false && SelectionIcon != null)//当菜单图标全部被收起同时热盒菜单处于打开状态同时有选中对象的时候
-        {
-            SelectionIcon.rectTransform.localScale = oneScale;
-            SelectionIcon.rectTransform.anchoredPosition = notUseIconPosition;
-            SelectionIcon = null;
-            isHotMenuClose = true;
-        }
+        //if (iconMoveT <= 0 && isHotMenuClose == false && SelectionIcon != null)//当菜单图标全部被收起同时热盒菜单处于打开状态同时有选中对象的时候
+        //{
+        //    SelectionIcon.rectTransform.localScale = oneScale;
+        //    SelectionIcon.rectTransform.anchoredPosition = notUseIconPosition;
+        //    SelectionIcon = null;
+        //    isHotMenuClose = true;
+        //}
             
     }
     //设置图标和坐标位置
